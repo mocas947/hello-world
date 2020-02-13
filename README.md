@@ -1,2 +1,2 @@
 # hello-world
-Moj prvi repozitorij
+Momčilov prvi repozitorij za učenje i vežbu
